@@ -35,8 +35,6 @@ graph TD
     style P8 fill:#fbb,stroke:#333
 ```
 
-```
-
 ## Key Concepts & Glossary
 - **Company Balance vs. Office Treasuries**: The *Company Balance* is managed by the Chairman to take on Debt and pay Dividends. *Office Treasuries* belong to specific offices (e.g., Director of Trade, Managers, Presidents) and must be spent on their respective operations and success checks.
 - **Fatigue**: Placed on office cards. Each fatigue adds +1 to Attrition rolls during the London Season, increasing the risk of forced retirement.
