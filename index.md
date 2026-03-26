@@ -2,6 +2,84 @@
 layout: default
 ---
 
+<style>
+/* Custom Left Sidebar for Navigation */
+#sidebar-toc {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 280px;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: #f8f9fa;
+  border-right: 1px solid #e9ecef;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+  font-size: 0.9em;
+  z-index: 1000;
+}
+
+#sidebar-toc h3 {
+  margin-top: 0;
+  font-size: 1.2em;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+#sidebar-toc ul {
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+#sidebar-toc > ul {
+  padding-left: 0;
+}
+
+#sidebar-toc a {
+  text-decoration: none;
+  color: #0366d6;
+  display: block;
+  padding: 4px 0;
+}
+
+#sidebar-toc a:hover {
+  text-decoration: underline;
+}
+
+/* Adjust the main content layout to make room for the sidebar (targeting common Jekyll themes) */
+.page-header, .main-content {
+  margin-left: 280px !important;
+  max-width: calc(100% - 280px) !important;
+}
+
+.container-lg, .wrapper {
+  margin-left: 280px !important;
+  max-width: calc(100% - 280px) !important;
+  padding-left: 40px !important;
+}
+
+/* Hide sidebar on very small screens for better mobile experience */
+@media (max-width: 768px) {
+  #sidebar-toc {
+    display: none;
+  }
+  .page-header, .main-content, .container-lg, .wrapper {
+    margin-left: 0 !important;
+    max-width: 100% !important;
+    padding-left: 20px !important;
+  }
+}
+</style>
+
+<div id="sidebar-toc" markdown="1">
+
+### Navigation
+
+* TOC
+{:toc}
+
+</div>
+
 {% include_relative rules-outline.md %}
 
 <script type="module">

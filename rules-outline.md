@@ -35,6 +35,7 @@ graph TD
     style P8 fill:#fbb,stroke:#333
 ```
 
+---
 ## Key Concepts & Glossary
 - **Company Balance vs. Office Treasuries**: The *Company Balance* is managed by the Chairman to take on Debt and pay Dividends. *Office Treasuries* belong to specific offices (e.g., Director of Trade, Managers, Presidents) and must be spent on their respective operations and success checks.
 - **Fatigue**: Placed on office cards. Each fatigue adds +1 to Attrition rolls during the London Season, increasing the risk of forced retirement.
@@ -124,58 +125,6 @@ Offices act based on the red ribbon from left to right:
 ## Appendix: Resolving Events in India
 
 Events significantly restructure the political landscape of India and represent the push and pull of local factions and Company forces.
-
-```mermaid
-graph TD
-    Event((Event Selection)) --> T[Turmoil]
-    Event --> P[Peace]
-    Event --> C[Crisis]
-    Event --> FI[Foreign Invasion]
-    
-    %% Turmoil
-    T --> T_Act[Close northernmost open order]
-    T_Act --> T_Check{Orders already all closed?}
-    T_Check -- Yes --> T_Casc[Cascade! Close connected]
-    
-    %% Peace
-    P --> P_Open[Open connected orders on Elephant border]
-    P_Open --> P_Str[Add tower level to touching non-Company regions]
-    P_Str --> EM[Elephant's March]
-    
-    %% Crisis
-    C --> C_Def{Is Attacker Sovereign?}
-    C_Def -- Yes --> Inv[Invasion]
-    C_Def -- No --> Reb[Rebellion]
-    
-    Inv --> Inv_Check{Attacker Str + Mod > Defender Str?}
-    Inv_Check -- Yes --> Inv_Win[Success: Exchange flags, form/shatter empire]
-    Inv_Check -- No --> Inv_Loss[Fail: Remove 1 tower from attacker]
-    
-    Reb --> Reg_Check{Attacker Str + Mod > Sovereign Str?}
-    Reg_Check -- Yes --> Reb_Win[Success: Attacker is sovereign, close orders, Cascade]
-    Reg_Check -- No --> Reb_Loss[Fail: Remove 1 tower from capital]
-    
-    %% Attack against Company
-    C --> C_Comp[Attack Against Company]
-    C_Comp --> C_Prim[Resolve Primary Crisis + Unrest Strength]
-    C_Comp --> C_Sec[Subsequent Rebellions in other unrest regions]
-    C_Prim --> C_Defs[Commander must exhaust pieces to match strength]
-    C_Defs --> C_CompLoss{Defense Failed?}
-    C_CompLoss -- Yes --> C_Fall[Region Loss: Company lowers Standing]
-    
-    %% Foreign Invasion
-    FI --> FI_Roll[Roll Storm Die for targeted regions]
-    FI_Roll --> FI_Inv[Resolve as Invasion Crisis]
-    FI_Inv --> FI_Win{Successful?}
-    FI_Win -- Yes --> FI_Fall[Close all orders, remove flags/domes, halve strength]
-
-    style Event fill:#fff,stroke:#333,stroke-width:2px
-    style C fill:#fbb,stroke:#333
-    style Inv_Win fill:#bfb,stroke:#333
-    style Reb_Win fill:#bfb,stroke:#333
-    style FI_Fall fill:#f33,stroke:#333
-    style C_Fall fill:#f33,stroke:#333
-```
 
 ### Detailed Resolution Steps
 
