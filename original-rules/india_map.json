@@ -1,0 +1,209 @@
+{
+    "regions": {
+        "Madras": {
+            "bounty": 5,
+            "nodes": [
+                "Madras 1",
+                "Madras 2"
+            ]
+        },
+        "Mysore": {
+            "bounty": 5,
+            "nodes": [
+                "Mysore 1",
+                "Mysore 2"
+            ]
+        },
+        "Hyderabad": {
+            "bounty": 7,
+            "nodes": [
+                "Hyderabad 1"
+            ]
+        },
+        "Bombay": {
+            "bounty": 4,
+            "nodes": [
+                "Bombay 1",
+                "Bombay 2",
+                "Bombay 3"
+            ]
+        },
+        "Maratha": {
+            "bounty": 3,
+            "nodes": [
+                "Maratha 1",
+                "Maratha 2",
+                "Maratha 3"
+            ]
+        },
+        "Punjab": {
+            "bounty": 6,
+            "nodes": [
+                "Punjab 1"
+            ]
+        },
+        "Delhi": {
+            "bounty": 8,
+            "nodes": [
+                "Delhi 1",
+                "Delhi 2",
+                "Delhi 3"
+            ]
+        },
+        "Bengal": {
+            "bounty": 6,
+            "nodes": [
+                "Bengal 1",
+                "Bengal 2"
+            ]
+        }
+    },
+    "nodes": {
+        "Madras 1": {
+            "income": 4,
+            "isPort": false,
+            "adj": [
+                "Madras 2",
+                "Mysore 1"
+            ]
+        },
+        "Madras 2": {
+            "income": 5,
+            "isPort": true,
+            "adj": [
+                "Madras 1",
+                "Hyderabad 1"
+            ]
+        },
+        "Mysore 1": {
+            "income": 6,
+            "isPort": false,
+            "adj": [
+                "Madras 1",
+                "Mysore 2",
+                "Hyderabad 1"
+            ]
+        },
+        "Mysore 2": {
+            "income": 3,
+            "isPort": false,
+            "adj": [
+                "Mysore 1",
+                "Bombay 1"
+            ]
+        },
+        "Hyderabad 1": {
+            "income": 7,
+            "isPort": false,
+            "adj": [
+                "Madras 2",
+                "Mysore 1",
+                "Maratha 1",
+                "Maratha 2"
+            ]
+        },
+        "Bombay 1": {
+            "income": 4,
+            "isPort": true,
+            "adj": [
+                "Mysore 2",
+                "Bombay 2",
+                "Bombay 3"
+            ]
+        },
+        "Bombay 2": {
+            "income": 3,
+            "isPort": false,
+            "adj": [
+                "Bombay 1",
+                "Maratha 1"
+            ]
+        },
+        "Bombay 3": {
+            "income": 3,
+            "isPort": false,
+            "adj": [
+                "Bombay 1",
+                "Punjab 1",
+                "Delhi 1"
+            ]
+        },
+        "Maratha 1": {
+            "income": 3,
+            "isPort": false,
+            "adj": [
+                "Hyderabad 1",
+                "Maratha 2",
+                "Bombay 2",
+                "Bengal 1"
+            ]
+        },
+        "Maratha 2": {
+            "income": 2,
+            "isPort": false,
+            "adj": [
+                "Hyderabad 1",
+                "Maratha 1",
+                "Bengal 1"
+            ]
+        },
+        "Maratha 3": {
+            "income": 4,
+            "isPort": false,
+            "adj": [
+                "Delhi 3",
+                "Bengal 1"
+            ]
+        },
+        "Punjab 1": {
+            "income": 7,
+            "isPort": false,
+            "adj": [
+                "Bombay 3",
+                "Delhi 2"
+            ]
+        },
+        "Delhi 1": {
+            "income": 3,
+            "isPort": false,
+            "adj": [
+                "Bombay 3",
+                "Delhi 2",
+                "Delhi 3"
+            ]
+        },
+        "Delhi 2": {
+            "income": 5,
+            "isPort": false,
+            "adj": [
+                "Punjab 1",
+                "Delhi 1"
+            ]
+        },
+        "Delhi 3": {
+            "income": 5,
+            "isPort": false,
+            "adj": [
+                "Maratha 3",
+                "Delhi 1"
+            ]
+        },
+        "Bengal 1": {
+            "income": 5,
+            "isPort": false,
+            "adj": [
+                "Maratha 1",
+                "Maratha 2",
+                "Maratha 3",
+                "Bengal 2"
+            ]
+        },
+        "Bengal 2": {
+            "income": 6,
+            "isPort": true,
+            "adj": [
+                "Bengal 1"
+            ]
+        }
+    }
+}

@@ -1,0 +1,148 @@
+
+--- Page 0 ---
+(If 4+ vacant offices, writer action enlists 2 writers. Opportunity marker would mean 3!) 
+If the vote fails, increase company share value (to +/-3 max). PM may vote against. PM doesn’t change hands. 
+  
+ 
+ 
+Before London Season, Vote to Deregulate? Mandatory if a marker is on a star space. PM’s option if on lined space.  
+  London Season:            
+1. 
+Roll for attrition of office holders. 3-4 adds fatigue, 5-6 -> pensioner’s box. Any fatigue cubes already present add 1 to result. Chairman always adds 1. 
+2. 
+Retire - Starting w chairman (or former) then clockwise, players may pay to retire pensioners and gain the VP (pensioners not retired are returned to player).    
+Firm shareholders (not only managers) may retire a family piece from their supply, spending up to the amount next to that firm’s cube on balance track. 
+3. 
+Prestige cards - Starting with whoever spent the most retiring this turn, and then in order of amount spent, anyone who retired a family piece either takes or 
+discards 1 Prestige card from the card row. (Ties in money spent are broken by most windows, including new ones, then PM order) 
+4. 
+Refresh – Remove any remaining prestige cards and put new cards out. 
+Family Phase: 1. Take a family action (Chairman, then clockwise) and move opportunity marker to selected action. If already there, may take action twice. 
+Firms (if Deregulation is in play): Players act simultaneously           2. Add shares in waiting. Drop debt marker one for each share created. Slide rest to right. 
+1. 
+ Investment Phase Options: 
+• 
+Start or invest in firm – Spend company shares or flip workshops. (Shares created this turn can’t be used. No shares at all if a marker is on a lined space) 
+• 
+Buy ships - Spend £3 from your firm’s London treasury to fit ships on shipyards paying the bank, or £3 for an active ship from sea (£2 if fatigued) paying 
+the Manager of Shipping office treasury. Consent of shipyard owner required in all cases. Place purchased ships on firm’s charter. 
+• 
+Hostile takeover – if you have consent of majority of shareholders, take over a firm. See manual for steps. 
+• 
+Merge firms – all involved firms need full consent of every shareholder. See manual for steps. 
+2. 
+Strategy phase: Firm managers secretly allocate funds to trading, and select sea region to trade in. 
+Hiring: In order of vacant office number. Nepotism is OK if all candidates agree. 
+Chairman:  May take debt (3 debt unilaterally, more with shareholder majority). Then, must give ALL the money from the company to offices/presidencies. 
+Director of Trade:  £1 per die. Roll any number of times. For each successful roll, either open a closed order in a region NOT controlled by the company, OR 
+open Trade with China office (hired immediately). When done rolling, may make up to 2 transfers of a single writer or ship, from anywhere to anywhere.  
+Governor General (if in play): First, increase company balance by £3 for each company-controlled region. 
+Then, may Govern any number of times, until successful, catastrophic failure, or they decide to stop. 
+Dice Pool = £1 per die.   
+!   For each 6 rolled, add 1 unrest to every company-controlled region   ! 
+Success: GG player takes £1 for each company-controlled region. Then, each company-controlled region gives you an action. For each, choose one: 
+▪ 
+Place a Company ship straight into any sea region, including China if Trade with China has been opened. 
+▪ 
+Place a Regiment in any army. 
+▪ 
+Tax - Add £2 to the company balance or to a treasury other than your own. Then, place 1 unrest in a company-controlled region. If you choose this 
+option multiple times on your turn, unrest must go in a different region each time. 
+Failure: add 1 unrest to each company-controlled region. 
+Catastrophic Failure: add 1 unrest to each company-controlled region. Remove Governor General, move card to Vacant Offices box 
+ 
+Manager of Shipping: buy company ships £5, fit ships in shipyards £3, lease extra ships £2, place ships wherever. Must spend down to £2 or less. 
+Military Affairs: make up to 2 officer or regiment transfers. Then, assign Officers in Training to armies and check for new commanders (strictly more pieces) 
+Presidencies – see flip side 
+Superintendent of Trade in China:  Requires ships and company-controlled export icons on map. Make a single check, one die per ship.  
+If successful, company gets £4 per company-controlled export icon. Superintendent player gets £1 per company-controlled export icon. 
+Bonuses: Workshops pay £1 each. Fitted shipyards pay £1 each. 
+Revenue/ Expenses /Expectations/ Dividends: 
+First, firms: 
+1. 
+Expenses - in initiative roll order (windows break ties, then PM order) - £1 per ship PLUS either [£1 per share] or [£ equal to firm’s value], whichever is higher. 
+Can’t pay? Optional Emergency investments/Emergency merger. Lower firm value cube by 1 space per emergency investment taken. Any excess £ is lost. 
+Emergency merger = other firm must pay their own expenses, then all outstanding by dissolved firm. If no investments or mergers, firm is dissolved. Move  
+each share to the debtor’s prison on the Deregulation card. These are worth -1 VP now. Ships return to shipyards. Flip player board back to family side. 
+2. 
+Optional Dividends - firm may pay dividends to share holders from it’s India treasury (unevenly if a shareholder volunteers and firm manager agrees).  
+3. 
+Adjust firm dividend cube on company balance track to the total amount of cash paid out this round. (Ignore this step if Firm chose the Hobnob strategy) 
+4. 
+Move all cash from India treasury to London treasury 
+ 
+1. 
+Expenses - Pay £1 per ship (incl. China), officer, regiment, and debt. (Emergency loans required if expenses can’t be paid. Any excess is lost. Adjust standing) 
+2. 
+Expectations - Check company expectations - company needs that balance minimum – adjust standing one space to left if not met. 
+3. 
+Dividends - may be paid if Chairman wants. Each shareholder (including Chairman) gets £1. Multiple dividends may be paid out. Must be distributed evenly. 
+4. 
+Standing - Move company standing to right if total dividend amount paid out this round exceeds current expectations value.  
+Events in India: Roll the storm die. Ships in the rolled sea region(s) roll for fatigue. (3-4 fatigued, 5-6 sunk) Then, resolve # of events shown on the storm die. 
+Parliament Meets: Prime minister draws up to 3 cards and selects one to vote on. (If Dilemma card drawn, stop drawing. PM must select that law) 
+After choosing law, PM moves arm on PM dial clockwise or counterclockwise stopping at next spot matching effect of law selected. PM votes first, then clockwise. PM 
+must vote FOR or abstain. PM may open additional rounds of voting if they like. Players who vote AGAINST may not vote FOR in any later voting rounds.  
+✓ 
+If law passes, PM takes passed law token. Then resolve policy consequences on dial and any immediate law effects. 
+ 
+If law fails, Leader of Opposition becomes PM, and selects an adjacent space on PM dial to move the arm to and resolve immediately. 
+Upkeep & Refresh:  
+1. 
+Pay for family members on prizes. Not paying = family member returned to supply, and player loses that prize’s VP.  
+2. 
+Extra ships go away, untap votes, writers back to their boxes, remove “filled order” tokens, refresh officers, local alliances go away 
+
+--- Page 1 ---
+ 
+For each Presidency: 
+First, any firms sailing in the acting presidency’s sea region must reveal strategy and roll initiative, £1 per die (Ships minus successes) 
+President then decides the order in which the Commander, Governor (if in play), and the President will act. (If no Pres, chairman) 
+Commander: 
+1. First, may request that the President spend money on local alliances. (If no President, not possible) 
+2. Then, may Deploy as many times as they want and can afford, as long as a chance of success remains. 
+Deploy: choose target region from: a) President’s home region, b) associated region, c) adjacent to associated region 
+Dice Pool = [# of officers/regiments/alliances being exhausted] MINUS [tower levels in defending region or empire].  
+Before resolving result, roll a death check for each officer used. 6 is death and officer returns to supply. Dead officers receive no loot. 
+Success:  do the following in order: 
+1. Divvy up loot, £1 by £1, starting with commander, then surviving officers (first preference to same colour 
+piece as commander), then regiments (to bank), alliances (to bank), and repeat from commander, until all 
+spent. [Loot total = £4 per tower level in target region + loot modifier token if face up]. 
+2. Commander takes one trophy token for each level of tower in target region. 
+3. Open all orders and remove all unrest. 
+4. Create Governor of that region (put governor card in Vacant Offices box and add Governor overlay). 
+5. If elephant was on border looking away from region, place in middle. 
+Failure: nothing happens. 
+Catastrophic Failure: Remove commander, and commander returns half of trophies to supply (rounded up). 
+ 
+Governor (if present):  May Administer as many times as they want 
+Administer:  
+Dice Pool = Number of dice is indicated on Governor card. Dice are free, but you lose 1 die after each Administer roll. 
+Success: Governor gets £1 (£2 if they just failed previous roll) and then can take one of the following three actions: 
+▪ 
+Build a company ship (takes place over two actions), 1st action = place a company ship on India map next to 
+governor. On a later success, you may take this action again to move it from the land to your sea zone. 
+▪ 
+Tax – take £2 from bank and give to your president, or the company. The first tax action this round causes no 
+unrest, but any additional tax actions this round will add 1 unrest to the region. 
+▪ 
+Create a regiment for your president’s army (remember: Regiments take loot, cost upkeep, and don’t die). 
+Failure: add 1 unrest to the region. 
+Catastrophic Failure: Add 1 unrest, remove Governor (leave overlay), move Governor card to Vacant Offices box. 
+ 
+President: May Trade any number of times, until successful, catastrophic failure, or they decide to stop. 
+If any firms have sailed in this region, the President treats their Trade roll as an initiative roll to determine who trades 
+first between President and all competing firms. Ships minus successes. Lowest initiative trades first and gets full order 
+values. All others trading in the region still trade, in lowest-to-highest initiative order, but will only get half the value of 
+any already-filled orders. (half values are indicated by small number next to order on board) 
+ 
+Firm trading: (in initiative order) 
+Fill orders up to the number of the firm’s ships plus one. Cover orders using “filled order” tokens. Gain value (either full 
+or half) to the firm’s India treasury. Then, increase the firm’s value marker one space for every £6 earned. 
+Trade: President must declare which regions are being targeted for trade 
+ 
+Dice Pool = £1 per die, MINUS 1 die for each region outside of the President’s home region being targeted. 
+Success: Fill as many open orders as there are ships in that sea region. Fill with available writers first, then use “filled 
+order” tokens. President player gets £1 per order filled. Each writer used to fill an order earns that player £1  
+Failure: nothing happens. 
+Catastrophic Failure: Remove president, move President card to Vacant Offices box. 

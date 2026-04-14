@@ -1,0 +1,1467 @@
+
+--- Page 0 ---
+1/16 
+ 
+John Company 2
+nd Edition 
+DrBo6’s Cheat Sheet: Version 13 (12/23) 
+FIRST GAME SETUP 
+1. Remove these cards: 
+- Deregulation - Do not call a vote for deregulation until 
+you are familiar with the game. 
+- The “Governor General” law. 
+- The “Old Ideas Made New” dilemma. 
+2. Shuffle the following cards into the bottom half of the 
+deck: 
+- Any Dilemma laws 
+- The “Foreign Invasion” India Tile 
+3. Give yourself the following cards at the start: 
+- Chairman 
+- President of Bengal 
+- President of Madras 
+- Military Affairs (4 players) 
+- Director of Trade (5 players) 
+- President of Bombay (6p; but maybe just don't play 6p 
+as your first game) 
+SETUP 
+1. Take out the tokens tray and the coins tray. 
+2. Give players their family components: 
+- Family board (Family side for most games, Firm Charter 
+side for the 1813 scenario) 
+- 18 family members tokens 
+- Opportunity marker (glass bead) near family actions but 
+not placed on any of them 
+- Victory point marker 
+- 5 promise cards for long-term negotiations 
+- 2 firm cubes (only used for 1813 scenario or when the 
+deregulation law is passed, and you have a firm) 
+- 4 strategy cards (only used for 1813 scenario or when the 
+deregulation law is passed, and you have a firm) 
+3. Setup the game board: 
+- Place families' victory point markers at 0 on the track. 
+- 4 power tokens on power track. 
+- Loot tokens on corresponding regions. 
+- Domes with tower levels and flags cf. scenario setup 
+card. 
+- Cash in Office Treasuries cf. scenario setup. 
+- Close orders/regiments (scenario setup card) 
+- Local alliances in bottom of 3 army boxes. 
+- Place the 6 pawns (values cf. the scenario setup cards 
+unless specified otherwise): 
+ Red: Company balance at 5 (#20 on image) 
+ Red: Company standing at S (#3) 
+ Red: Company debt at 0 (#4) 
+ Black: Voting tracker at 0 (#22) 
+ Black: Starting turn (scenario year, #6) 
+ Silver: Family Action (of the Phases, #7) 
+4. Select a large scenario setup card and follow its 
+instructions. 
+- 1710 unless you already know what you are doing. Skip 
+everything highlighted in blue on this cheat sheet. 
+- 1758 will introduce deregulation and other advanced 
+rules. 
+- 1813 has deregulation already in play and starts with a 
+challenging situation. 
+ Erratum: Place the +2/-2 overlay on Court of Directors. 
+- Long 1710 scenario uses the 1710 setup card but play 
+from turn 1 through turn 8 for an epic experience. 
+5. Place the laws (shuffled), officeholder (ordered) and 
+small setup cards nearby. Order the Shipyard cards. 
+6. Shuffle the blackmail and prestige cards together and deal 
+the top three cards to the London Display.  
+- Blackmail cards stay facedown, prestige cards are flipped 
+faceup in the London Display. 
+7. Set the Prime Minister dial to the scenario's year. 
+8. Deal the small scenario setup cards to the players or hold 
+a card draft with them. 
+- Remove the Extra cards with players <= 4. 
+- Remove 3 random Extra cards at 5 players. 
+- Give each player what is on the setup cards. 
+9. Place remaining officeholder cards near the board. 
+READING THE BOARD 
+• #1 - Victory Point Track 
+• #2 - Power Track (see terminology ref.) 
+• #3 - Company Standings and Company Expectations (£s 
+underneath the standings). 
+• #4 - Company Debt Tracker 
+• #5 - Prizes are the houses. Their cost is printed in 
+purple, and their upkeep expense is printed in white on 
+the left. The amount of Victory Points they add is 
+printed on the right. In the middle of the card the 
+depicted Windows Icons are used for Windows Taxes 
+and determining order in some situations. 
+• The red line is sometimes referred to as the Ribbon. It 
+starts with the Turn Tracker (#6) and then goes through 
+both the Phases of the game (#7) and the Offices of the 
+Company (as described in Sequence of Play, #10-#16). 
+The Game Board 
+Note: Deregulation rules are highlighted in blue. Skip 
+these until you have played some games. Bonus money 
+is highlighted in green. 
+
+--- Page 1 ---
+2/16 
+ 
+• The spots marked with £2, £3, £3, £4 and £5 are called 
+the Stock Exchange (#9), it is printed above the Court 
+of Directors (#10). 
+• There is an Army Box on the board for Bombay (#17), 
+Madras (#18) and Bengal (#19). It has a spot for a 
+Commander and a top and bottom half. The top and 
+bottom contain army pieces, such as Officers (family 
+members), Regiments or Local Alliances. When a piece 
+is in the top half, it is active. An active piece can grant its 
+strength in an attack, after which it will become 
+exhausted and moved to the bottom half. 
+• #13 - The Officers-in-training Box is the box on the 
+board that is part of the Military Affairs office (#13). 
+• The Director of Trade (#11), Manager of Shipping 
+(#12) and Presidency of Bombay/Bengal/Madras (#14-
+16) all have an Office Treasury in their box, and the 
+Presidencies also have spots for Writers in their box. 
+• #20 - Company Balance  
+• #21a-c – Sea Zones. #21a is the zone associated with 
+Bombay, #21b is associated with Madras, and #21c is 
+associated with Bengal. 
+• #22 - Voting Tracker 
+• The London Display (#8) will offer players a pick of 
+Prestige Cards (such as additional enterprises or 
+spouses) and Blackmail Cards (always face-down until 
+played). 
+• Whenever an Officeholder leaves office, their office is put 
+in the Vacant Office Box (right of #24). When 
+Officeholders retire, their corresponding family member 
+token joins the Pensioners box (left of #24). 
+• India (#23) has 3 Presidencies and 8 Regions. 
+• The Presidencies have Bombay, Madras and Bengal as 
+their Home Regions. 
+• A Region has the following properties: 
+- Orders: Circles with money value. Can be open or 
+closed. The dotted lines between them allow players to 
+create Trade Routes. 
+- Home ports are Orders with thick borders within 
+Bombay, Madras and Bengal, located next to their 
+associated Sea zones. These are the Orders where each 
+Presidency must start their trade routes when trading. 
+- Export Icons (white icons resembling boxes): When the 
+Superintendent of Trade in China’s Office is active, 
+these icons in Delhi, Bengal (2), Hyderabad and Madras 
+can generate extra money. 
+- Region Strength: The tower levels (excl. the domes) 
+and/or unrest cubes determine attack/defense value. 
+- Regions can be Sovereign/Dominated: 
+ Star Flag = Sovereign Region; Capital Region of an 
+Empire 
+ Small flag = Dominated region of an Empire 
+ No Flag = Sovereign Region, but not in an Empire 
+• Empires are indicated by flags (see 
+Sovereign/Dominated) and often combine the strength 
+of their regions. An Empire with a single flag loses its 
+flag and is no longer an empire. 
+• The Elephant indicates where the next crisis (i.e., 
+Invasion or Rebellion) might happen during the Events 
+in India stage. 
+India 
+
+--- Page 2 ---
+3/16 
+ 
+• Loot Tokens give extra coin to players when they 
+Deploy successfully in that region for the 1st time. They 
+are also used to connect a Presidency to a Region after a 
+successful Deploy action. 
+CONCEPTS AND COMPONENTS 
+• Component/Tracker Limitations 
+- Components are limited by the pieces provided, except 
+for cash, Trophies, Passed Law Tokens, Dice and 
+Regiments. 
+- Trackers are limited, except for Company Balance, 
+Victory Point and Vote Tracks. Use money to keep 
+track of votes when going over/under its limits. 
+• Treasuries/Cash: 
+- Company/Office Treasuries: The Company Treasury is 
+spread across its Office Treasuries. 
+- Family Treasury is the coin a player has. 
+- London Treasury is only used in a game with 
+Deregulation in play. It is the treasury of a firm. 
+- India Treasury is only used in a game with Deregulation 
+in play. It is the money a firm has gained from trade in 
+India. Every 6 cash that comes into it increases the Firm 
+Value by 1. 
+• Public/Hidden information: 
+- Only Blackmail Cards and - if Firms are in play - 
+Strategy Cards and their associated coin are ever hidden 
+information. 
+- Players can peek at Blackmail Cards as part of a 
+negotiation or when selecting them from the London 
+Display. 
+• Trading and Negotiation: 
+- You can transfer most assets, incl. but not limited to 
+enterprises, unused facedown blackmail cards, cash in 
+your family’s treasury, shares (except for the chairman), 
+and promise cards between players. 
+ Adjust Victory Points on the tracker when transferring 
+items with Victory Points. 
+ Negotiations involving immediate transfers are binding. 
+All other negotiations are non-binding. 
+ Transferred items cannot be activated twice in the same 
+turn. 
+ Promise cards cannot be used during final scoring. 
+They are returned after use. 
+- You cannot transfer family members (unless they are 
+Shares), pieces on prizes, spouses, passed laws, played 
+faceup blackmail cards, the Prime Minister dial, or 
+trophies. 
+• Success Checks/Make a Check: 
+- Roll a d6, use the lowest rolled value. 
+- 1-2 = Success 
+- 3-4 = Failure; Re-rolls are allowed if funds are available 
+- 5-6 = Catastrophic Failure; Return the acting 
+Officeholder immediately to the player's supply. Flip 
+their Office card and move it to Vacant Offices. Remove 
+any Fatigue Cubes. 
+• No Dead Actions Rule: A player can never take an 
+action that would have no effect or chance of success. 
+SEQUENCE OF PLAY 
+Skip this phase entirely 1) on the first turn, and 2) on 
+subsequent turns as well in the 1710 and 1813 scenarios. It 
+is not printed on the Ribbon. 
+• The Prime Minister 
+- may call a Vote to Deregulate if the Company Standing 
+and Company Debt markers are at lined spaces. 
+- must call a Vote to Deregulate if the Company Standing 
+or the Company Debt markers is on a star space. 
+- Success/passed: 
+ Lower Company Debt 1 space for every 2 debt. 
+ Place the Standing Marker on the S-space. 
+ The Prime Minister gains a Passed Law token. 
+ Deregulation is now in play and Firms can be created. 
+- Failure: Increase the Company Shares' value by either 
+placing or flipping the Victory Points Overlay Token in 
+the Court. 
+- The Prime Minister cannot change hands in a 
+Deregulation vote, it is not associated with a policy, it is 
+not discarded, and the Prime Minister can vote against it. 
+Skip this phase entirely on the first turn 
+1. Resolve Attrition 
+- Roll 1d6 for each officeholder 
+- Add +1 to the result for each officeholder that has a 
+Fatigue Cube 
+- Add +1 to the result for the Chairman 
+- Resolve results 
+- 1-2: Nothing happens 
+- 3-4: Add a fatigue cube to Officeholder Card 
+- 5-6: Move Family Member to Pensioners, move 
+Officeholder Card to Vacant Offices. 
+2. Resolve Retirements 
+- Start with Chairman or former Chairman if vacant 
+- Retire Pensioners to Prizes (houses) by paying the purple 
+£-value listed on them, keeping track of the amount of £ 
+each player has spent on Prizes this turn. 
+- Spouses with -£X subtract X from the Prize they buy. 
+They stack but they can only be used once per London 
+Season/Final Scoring. 
+Special Session of Parliament 
+London Season 
+
+--- Page 3 ---
+4/16 
+ 
+- Update Victory Points track cf. acquired Prizes. 
+- White £-value = upkeep costs at the end of the turn. 
+- Each player with at least one Firm Share (with any Firm) 
+that paid out Dividend (as indicated on the Company 
+Balance tracker by a Firm Cube) is allowed to perform a 
+Special Retirement: 
+ They are allowed to use a piece from their Supply 
+rather than from the Pensioner box. 
+ They cannot exceed the value of the highest total 
+dividend paid out by a Firm in which they own a share. 
+3. Pick Prestige cards from London Display 
+- Only players with retirees, in order of: 1) Spent the most 
+on Prizes, 2) Most Windows, 3) clockwise starting with 
+Prime Minster. 
+- Must take one or discard one card. Allowed to peek at 
+Blackmail. 
+- Phase ends when there are no more cards. If there are 
+cards left, discard all of them and refresh the display. 
+- Update Victory Points track cf. acquired Prestige Cards 
+(and do not mix up Power and Victory Points). 
+4. Return Pensioners that did not receive a Prize to their 
+Supply. 
+1. Each player selects a Family Action. (Chairman 1st, 
+clockwise) 
+- There are three ways to get extra actions: 
+ Check for any laws that have "Extra Actions". Only the 
+most recently passed law with an "Extra Action" can be 
+used, if any. Do not reposition your marker. 
+ If there are 4 or more vacant offices, you may place 2 
+writers instead of 1 if you choose to Enlist a Writer. 
+ If you pick the same action that you picked last turn, 
+you get to do it twice. 
+- Pick from the following list: 
+ Enlist Writer: Place 1 family member in one of the 
+Writer spots (attached to each of the 3 Presidencies). 
+ Enlist Officer: Place 1 family member in the Officers-
+In-Training spot (attached to the Military Affairs 
+office.) 
+ Purchase Luxury: Pay £4 and take a luxury card. Adjust 
+Victory Points. 
+ Purchase Shipyard: Pay £2 and take a Shipyard card 
+and the corresponding ship token. Place the ship token 
+on the card. 
+ Purchase Workshop: Pay £5 and take a Workshop 
+card. 
+ Seek Share: Place a family member on any empty 
+space on the Stock Exchange Track (above the Court 
+of Directors) and pay the corresponding £-value. 
+2. After all actions have been chosen, new company 
+shares are created. 
+- If Firms are in play, flip any face-down Shares in the 
+Court of Directors face-up. 
+- While the company has debt, move the debt marker one 
+spot to the left and add the right-most family member 
+from the Stock Exchange Track onto the Board of 
+Directors. 
+- If Firms are in play, flip any new Shares in the Court of 
+Directors face-down. 
+- Once the company has no more debt, move any 
+remaining family members as far to the right as possible 
+while preserving their order. 
+If the Deregulation Law is not active, skip this phase 
+entirely. 
+1. Make Firm Investments 
+- Take any of the following actions in any order (while 
+respecting the limitations below): 
+ Form a Firm: Return a Family Share to the Supplies 
+OR flip a workshop to the invested side. Next, flip the 
+Family Board to the Firm Charter Side and Place a 
+Family Member in its Shares Box. Place one of your 
+Firm Cubes on the left-most space of the Value track 
+and add £5 from the bank to the Firm's London 
+Treasury. 
+ Invest in a Firm: If a Firm's Manager (owning player) 
+consents, players may invest in a firm by 
+o Removing one of their Company Shares back to 
+their Supply OR flipping one of their Workshops to 
+its Invested side. 
+• Company Shares can only be used for formations 
+and investments if 
+- Company Standing is not on a lined space 
+- The company share was not created in the most 
+recent Family Phase (and flipped face-down). 
+o Adding £5 from the bank to its London Treasury 
+AND 2) placing one of their family members in the 
+Shares Box. 
+o Investment Limits: Firms can have only 10 Shares, 
+but they can always accept more investments without 
+generating shares. 
+ Fit an Unfitted Ship: Pay £3 from the London 
+Treasury to fit a Ship from a Shipyard with its owner's 
+consent to the Ships box on the Firm Charter Board. 
+ Buyback a Player Ship in service of the Company: 
+Transfer £3/£2 from the London Treasury to the 
+Director of Shipping Office’s Treasury to move a 
+unfatigued/fatigued fitted Ship with its owner's consent 
+Family 
+Firms 
+
+--- Page 4 ---
+5/16 
+ 
+from its Sea space to the Ships box on the Firm 
+Charter Board. 
+ Perform a Hostile Takeover: If you do not manage a 
+firm and you have consent of the players that hold the 
+majority of a firm's shares, you may perform a hostile 
+takeover. Copy the state of that Firm with your own 
+components while the original Firm's player reverts his 
+board back to the Family side. 
+o The owner can still invest to regain majority and 
+cancel the takeover. 
+ Negotiate a Merger: If all involved firms have full 
+consent of every shareholder, multiple firms can 
+consolidate their assets into a single firm and become 
+regular families again. The single resulting firm has to 
+have the highest value of all involved firms. 
+2. Set Firm Strategies 
+- Secretly play your Firm Strategy Card face-down. 
+ These determine what sea zone your ships will be 
+trading in. 
+ The Hob-Nob strategy does not let you trade but 
+allows you to keep the Dividend score from the last 
+time you traded. 
+- Secretly set aside an amount of money (bid) that you will 
+allocate to trading - e.g., hold it in your fist or cover it 
+with your hand. 
+- When everyone has played their card and allocated their 
+money, reveal the results and put them in the assigned 
+spots of the Firm Charter Board. 
+• The Firm manager resolves internal timing conflicts, the 
+Prime Minister external ones 
+Skip if there are no vacant offices. 
+• During this phase, Fill all vacant Offices using the 
+guidelines on the back of each card, in the order printed 
+on them, using the following rules: 
+- Nepotism: You may select your own family member, but 
+you must have the consent of every other player in that 
+office’s candidate pool (which could be just yourself). 
+This does not apply to hiring the Chairman. 
+- Promotions: Some higher offices are hired from lower 
+offices. 
+ When this happens, add the lower office's card to the 
+stack of vacant offices. 
+ Carry any fatigure tokens over from the lower office to 
+the higher office. 
+- If there are no candidates or hirer, then the Office 
+remains vacant throughout the turn and no actions are 
+taken for it. 
+- Players cannot refuse an Office when their family 
+member is appointed to it. 
+- If there is a valid candidate, then they must be hired. A 
+candidate that would fall under the nepotism rule and 
+that does not have consent, is not considered a valid 
+candidate. 
+• The Chairman Election is unique: 
+- Every Company Share is a vote; needs more than half of 
+total. 
+- If no candidate receives enough support, the former 
+Chairman picks any player with a Company Share 
+(including themselves) and gets to ignore the Nepotism 
+rule. 
+- If the Court of Directors is empty, then the former 
+Chairman becomes Chairman again. 
+- The Company Share that becomes Chairman still counts 
+as a Company Share but cannot be traded or used for 
+investments (when Firms are in play). 
+• A Commander is not an Officer and cannot be 
+promoted to Governor. 
+1. Set the debt marker 
+- Each advance = £5 for the Company Balance 
+- More than 3 advances require majority vote in Court of 
+Directors (incl. Chairman). 
+- You cannot advance the debt marker beyond the right-
+most spot. 
+2. Must allocate all funds in the Balance. (See expectations 
+under Company Standing.) 
+- Move funds from the Company Balance into the 
+Company Treasuries (Director of Trade or Governor 
+General, Director of Shipping and the 3 Presidencies) 
+until none is left. 
+Resolve Director of Trade if the Governor General is not in 
+play. Otherwise, resolve Governor General instead. 
+Director of Trade 
+1. May send Special Envoys 
+- Make a check, 1 die per £1 
+- Success, choose: 
+ Place the Superintendent of Trade in China board and 
+add the card to the Vacant Offices. Hire immediately. 
+ Open an order in any region that is not company-
+controlled. 
+2. May make up to Two Transfers: Move In each, move 
+one Writer/Ship to one Presidency/Sea Zone. 
+Governor General 
+1. Must increase the Balance by £3 for every Company-
+Controlled Region. 
+Hiring 
+Chairman’s Office 
+Director of Trade / Governor General 
+
+--- Page 5 ---
+6/16 
+ 
+2. Govern - You may attempt this any number of times, but 
+you may only do it once successfully. 
+- Make a check, 1 die per £1 
+- Success:  
+ Receive a £1 bonus for each Company-Controlled 
+Region. 
+ For each Company-controlled region, you must choose 
+one of the following: 
+o Place a Company Ship in any Sea zone 
+• Unlike the Director of Trade, a Governor General 
+cannot Transfer fitted Ships (or Writers) 
+o Place a Regiment in any Army 
+o Tax: 
+1. Increase either the Company Balance or any 
+Company Treasury except your own by £2. 
+2. Place an unrest in a Company-controlled region. If 
+you make this choice multiple times in a single 
+turn, you must place the unrest in a different region 
+for each. 
+- Failure: Place 1 unrest in each Company-controlled 
+region 
+- For each 6 rolled: Place 1 unrest in each Company-
+controlled region 
+• Must purchase ships until there is £2 or less left in its 
+Treasury. 
+- Can always perform the following actions: 
+ Fit Shipyard Ships: £3, move ship from shipyard to any 
+sea zone (incl. China). This does not require owner 
+consent. 
+ Lease Extra Ships: £2, extra ship to any sea 
+- Can only perform the following actions when there are 
+no ships on shipyards: 
+ Buy Company Ships: £5, company ship to any sea 
+1. Army Transfers (up to 2x): May move Officer/Regiment 
+between Armies' top halves 
+2. Must assign all Officers-in-Training to any Army box's top 
+half 
+3. Update Commanders: 
+- If a player has more total pieces than the current 
+Commander's players, swap one of that player's Officers 
+in the top half of the Army box with the current 
+Commander 
+- If the commander slot is vacant, fill it with an Officer of 
+player with the most pieces in the Army box. 
+- Since this is not a Hiring, the Nepotism rule does not 
+apply. 
+1. Firm Strategy Declarations: If Firms are in play, the 
+President (or Chairman if vacant) asks if there are any 
+Firms who have selected a strategy associated with the 
+current Presidency’s Sea Zone. If so, those Firms follow 
+these steps: 
+- Reveal the Strategy Card 
+- Make a check, dice = allocated cash (The President's 
+check includes a dice penalty for non-home regions, but 
+the firms do not have to include that.) 
+ You only get one chance to roll a success 
+ You must make the check and pay, even if the Region’s 
+Home port is closed. 
+- Success: The Firm may perform a Trade action during 
+this Presidency Operations phase with initiative = total 
+ships - amount of successes 
+2. The President must decide the order in which a) any 
+Firms and themselves, b) their Governors and c) their 
+Commanders perform their respective Actions. 
+- If the President's Office is vacant: 
+ The Chairman decides the order or breaks ties in their 
+stead, but they do not get to Approve Alliances (during 
+the Commander's Actions) or take the President's 
+Trade Action. 
+ Firms will take their Trade Actions (see below) either 
+1) during the President’s successful Trade Action, or 2) 
+after the Governor and Commander have had the 
+chance to take Actions. 
+President of Region (and Firms) 
+• Trade Routes start from and include a Presidency's 
+Open Home Port and continue through any Open or 
+Previously-Filled orders connected to each other by 
+dotted lines. You may branch in two directions from an 
+Order, but the following limitations apply: 
+- Limitations: 
+ Trade Routes cannot include Previously-Filled Orders 
+created in a previous turn. (Use the Red Divider 
+Tokens to separate new Trade Routes being filled from 
+Trade Routes created in previous turns.) 
+ A President's Trade Route can also not include Orders 
+in another Presidency's Home Region. 
+- Number of Orders: 
+ As a President: Number of Orders = Number of Ships 
+in the Home Port's Sea region 
+ As a Firm: Amount of Orders = Amount of Ships on 
+the Firm Charter Board + 1 
+- Total £-value: 
+ The total £-value of a Trade Route is calculated based 
+on whether its Orders were Open or Previously-Filled 
+Director of Shipping 
+Military Affairs 
+Presidency Operations 
+
+--- Page 6 ---
+7/16 
+ 
+by another Trade Route, before the new Trade Route 
+passes through it: 
+o For each Open Order: Add full listed £-value to the 
+Trade's Route total £-value. 
+o For each Previously-Filled Order: Add ½ £-value, 
+rounded down (which is printed on the board next to 
+the order). 
+• Resolving the Trade Action: 
+- If the President wants to take their Trade action, make a 
+check at £1 per die and subtract 1 die per non-Home 
+Region in their intended Trade Route. 
+ Success: The President may perform a Trade. 
+o If Firms are in play, the President's Initiative is ships 
+in the sea region - amount of successes. 
+ Non-catastrophic Failure: The President may try this 
+again. 
+ If the President does not or cannot trade, Firms trade 
+after the Governor and Commander have had a chance 
+to act. 
+- Trade Actions are completed with lowest initiative going 
+first. Ties are broken by 1) President, 2) Chairman. 
+ As a President: 
+1. Fill your Trade Route (Max Orders = Number of 
+Ships). Place Writers in from the Presidency box 
+first, then use Filled Order Tokens. 
+2. When filling an Order next to an Order that was 
+filled during a previous turn, put a Red Presidency 
+Divider Token on the dotted line between then. 
+3. Add the total £-value of the Trade Route to the 
+Company Balance (counting ½, rounded down for 
+Orders previously filled by Firms this turn). 
+4. Presidents receive a £1 bonus for each filled order of 
+their Trade Route. 
+5. Writers (not Filled Order Tokens) receive a £1 
+bonus for each Order they fill on the Trade Route. 
+ As a Firm: 
+1. Fill your Trade Route using only use Filled Order 
+Tokens. 
+2. When filling an Order next to an Order that was 
+filled during a previous turn, put a Red Presidency 
+Divider Token on the dotted line between then. 
+3. Add the total £-value of the Trade Route to the India 
+Treasury on your Firm Charter Board. 
+4. For every £6 added to the India Treasury, advance 
+the Firm's Value Marker one space. 
+Commander 
+1. May request Local Alliance funding from your President: 
+If consent is given, move the purchased Local Alliance 
+pieces to the top half of the Army Box. 
+2. Deploy Action (as many times as you wish and can 
+afford, including zero). 
+1. Select a target (either not company-controlled or having 
+a closed order/unrest): 
+ Your President's Home Region 
+ Any Region associated with your Presidency 
+ Any Region bordering a Region associated with your 
+Presidency 
+2. Make a check; number of dice = number of 
+Officers/Regiments you Exhaust - region strength 
+ Exhaust = move to the bottom half of the army box 
+ Empires includes all their Regions in their strength 
+ Company-Controlled Regions have 0 base strength 
+ Can re-try the check if no catastrophic failure 
+3. Check for Losses: d6 for each Exhausted Officer, return 
+to supply on 6s. 
+4. Success: Loot the Region and make it Company-
+Controlled 
+ Calculate Loot: Amount = (Tower Levels * £4) + 
+faceup Loot Token Modifier (unless this is less 
+than Amount of Exhausted yet Surviving Officers + 1, 
+in which case increase the amount by the difference.) 
+ Distribute the Loot among those that participated and 
+survived. 
+1. The Commander receives £1 bonus. 
+2. Each Surviving Officer (clockwise from Commander) 
+gets £1 bonus.  
+3. Pay £1 to the bank for each Regiment and Local 
+Alliance 
+4. Continue and Repeat until the entire Loot sum has 
+been allocated. 
+ The Commander's player gets 1 Trophy per level of 
+the Targeted Region's Tower. 
+ Remove the Towers and Flags 
+ Open all Orders and remove any Unrest 
+ Move any Region Loot Token to the President's Box 
+Faceup; this Region is now associated with this 
+Presidency. 
+ If there is no Governor General in place, place the 
+Governor Overlay in the Region and put the matching 
+Governor Officeholder Card into Vacant Offices. 
+ If the Elephant was in the Invaded Region and faced 
+another Region, put it in the center of the invaded 
+Region. 
+5. Catastrophic Failure: Return your Commander and half 
+(rounding up) of your Family's Trophies. 
+Governor 
+Skip this if there is a Governor General 
+ May Administer 
+1. Create a dice pool = number of your Office Card. 
+2. Make a check, remaining dice in the pool 
+3. Success: Receive a £1 bonus, an additional £1 bonus if 
+you failed your previous roll, and choose: 
+
+--- Page 7 ---
+8/16 
+ 
+ Build Company Ship and place it in your Region (on 
+land). 
+ Move a Company Ship already in your Region into the 
+Sea Zone associated with your Presidency. 
+ Place a Regiment in the top half of your Army Box. 
+ Tax: Add £2 to either the Company Balance or your 
+President's Treasury. 
+o Do not split this amount. 
+o Each time you choose this after your first time this 
+turn, add one Unrest Cube to the Region. 
+4. Failure: Add an Unrest Cube to the Region. 
+5. Lower the number of dice in the pool by 1. 
+6. Until your run out of dice (or roll a catastrophic failure), 
+you may go back to step 2 and roll the remaining pool 
+to administer again. 
+• This Office acts after the Presidency of Bengal, after it 
+has been created. 
+• Ships in this zone count as if they were in the Eastern 
+Sea zone. 
+• May Trade in China: 
+- Make a check, 1 die per ship, only one attempt, can only 
+be attempted if there are Export Icons in Company-
+Controlled Regions. 
+- Success: 
+1. Increase the Company Balance by £4 for each Export 
+Icon in all Company-Controlled Regions. 
+2. Receive a £1 bonus from the bank for each Export Icon 
+in all Company-Controlled Regions. 
+• Take £1 for each shipyard with a fitted ship 
+• Take £1 for each workshop. 
+1. Pay Firms Expenses and Dividends by initiative order 
+with ties broken by 1) Windows on cards and prizes, 2) 
+clockwise and starting with Prime Minster. 
+- Pay Firm Expenses from London or India Treasury: 
+1. Pay £1 for each Ship 
+2. Pay £1 for whichever is higher: Amount of Shares in 
+Firm Share Box or Firm Value 
+3. If the Expenses cannot be paid, consider the following 
+options: 
+o Emergency Investments (following the Firm 
+Investment rules described under Firms). 
+• Any cash remaining after paying the expenses is lost. 
+• Lower the Firm's value by 1 for each Emergency 
+Investment 
+• You can still take Emergency Investments at the left-
+most value. 
+o Emergency Mergers (following the Firm Merger 
+rules described under Firms): 
+• The other Firm must first pay their own expenses. 
+• The other Firm must then pay any outstanding 
+expenses owed by the Firm that cannot pay their 
+own expenses. 
+4. Dissolve the Firm in Expenses cannot be paid. 
+o Move Shares to the Debtor's Prison Box of the 
+Deregulation Card. 
+o Return Firm Ships to their Shipyards 
+o Flip the Firm Charter Board to its Family Side, and 
+leave the Workshops as Invested. 
+- Pay Firm Dividends from India Treasury only: 
+1. A dividend = £1 to each Firm Share and £1 for the 
+Firm Manager/Owner. 
+o Dividends must be paid out as a whole, but players 
+can choose to forgo their share of a Dividend to allow 
+for the entire India Treasury to be paid out (see 
+example p. 42) 
+o A Firm that pays a Dividend is allowed to perform a 
+Special Retirement during London Season. 
+2. Record the total amount of cash paid out in 
+Dividends by placing the second Firm Cube on the 
+Company Balance Track. 
+o Hob-Nob Strategy Firms leave their Firm Cube 
+where it was and do not reset to zero. 
+3. Cash remaining in the India Treasury is moved to the 
+London Treasury 
+2. Pay Company Expenses: Subtract £1 from the Company 
+Balance for 1) each debt, 2) each Regiment in an Army 
+Box (not for Local Alliances), 3) each Officer (not the 
+Commanders) in an Army Box, and 4) each Ship in a 
+Sea Zone (including China). 
+- If needed, take Emergency Loans, which do not add to 
+your debt expense this turn. 
+1. Increase the Debt marker by 1 and adding £5 to the 
+Company Balance when you cannot pay your 
+expenses 
+2. Set the Company Balance to zero after all expenses 
+are paid if you have taken Emergency Loans 
+3. If 1-2 Emergency Loans were taken: Lower Company 
+Standing by 1. 
+4. If 3+ Emergency Loans were taken: Lower Company 
+Standing by 2. 
+- If the Company Standing Marker reaches the left-most 
+space, the Company has failed. Immediately go to Final 
+Scoring. 
+Superintendent of China 
+Bonuses 
+Revenue 
+
+--- Page 8 ---
+9/16 
+ 
+- Unlike the Chairman’s first action, you can still take 
+more Emergency Loans when the debt marker is at the 
+right-most spot. 
+3. Check Expectations by lowering the Company Standing 
+by 1 if the Company Balance is less than the 
+expectations. 
+- If the Company Standing Marker reaches the left-most 
+space, the Company has failed. Immediately go to Final 
+Scoring. 
+4. The Chairman may Pay Dividends: 
+- A dividend = number of Company Shares (incl. 
+Chairman's), hence each player receives £1 for each of 
+their Company Shares. 
+- The Chairman may pay out multiple Dividends, but they 
+cannot pay out a partial one. 
+- If the total cash paid in Dividends was more than the 
+Expectations, advance the Company Standing by 1. 
+1. Roll and resolve the storm die 
+- Roll a die for each Non-Company/Non-Extra Ship in the 
+rolled sea zone(s), including Firm Ships with Strategy 
+Cards that match the sea zones. 3 Storms = all Sea 
+Zones. 
+ 1-2: Nothing happens 
+ 3-4: Flip Non-Fatigued Ship to Fatigued side. Return 
+Fatigued Ship to the Shipyard. 
+ 5-6: Return the Ship to the Shipyard. 
+2. Resolve events equals to the die number: 
+- Flip a tile from the Face-Down India tile Draw Stack to 
+the Face-Up India Drawn Stack 
+ Resolve the event 
+o Turmoil: 
+• Close Northernmost Open Order in the Location at 
+the top of the Draw Stack. Check for 
+Cascades/Writer’s Loss. 
+o Windfall: 
+• Each player takes £1 from the bank for each writer 
+in the Location at the top of the Draw Stack and 
+Regions adjacent to it. 
+o Shuffle: 
+• If the Draw Stack is not empty, perform Elephant's 
+March 
+• Shuffle this tile with the Draw Stack. 
+• Shuffle the Drawn/Discard Stack. 
+• Put the shuffled Drawn/Discard Stack on top of the 
+shuffled Draw Stack. 
+• If you did not perform an Elephant's March in step 
+1, perform an Elephant's March now. 
+o Leader: 
+• If the Location at the top of the Draw Stack is 
+Sovereign (star flag or no flag) then add a Tower 
+Level to the Location at the top of the Draw Stack. 
+• If the Location at the top of the Draw Stack is not 
+Sovereign, resolve a Rebellion in the Location at the 
+top of the Draw Stack with a strength modifier equal 
+to the tile. 
+• If the Elephant was fully in the Location at the top 
+of the Draw Stack, and the Location at the top of 
+the Draw Stack was Company-Controlled, and the 
+Rebellion was successful, then perform an 
+Elephant's March. 
+o Peace: 
+• If the Elephant is on a border: 
+1. Open any Orders connected to the Border the 
+Elephant stands on. 
+2. Add on Tower Level to each Non-Company-
+Controlled Region touching the Elephant. 
+• If the Elephant is wholly in a Region: 
+1. Open all Orders and remove all Unrest Cubes in 
+the Elephant's Region. 
+2. Perform the Elephant's March. 
+o Crisis: 
+• If Elephant's Tail in Sovereign Region: Resolve 
+Invasion. 
+• Otherwise: Rebellion 
+o Foreign Invasion: 
+• Roll the storm die 
+• If Storms were rolled: Resolve an Invasion in each 
+Region linked to a rolled Sea Storm through a port. 
+- Roll a d6 to determine the Invasion strength 
+- Successful Invasion: 
+1. Perform all usual Invasion steps 
+2. Close every open Order in the invaded Region, 
+check for Cascades/Writer’s Loss. (This will 
+always Cascade in a Company-dominated 
+Region due to the Region Loss.) 
+3. Turn the Region into Sovereign, no-flag dome, 
+with strength set to half the Invasion Strength, 
+rounded down. 
+4. If the Invaded Region was a Capital Region, 
+remove all flags of the Empire. 
+5. If the Invaded Region was Company-Controlled 
+with the Elephant inside of it, perform an 
+Elephant's March with a Circle symbol for the 
+shape. 
+• If no Storms were rolled: Resolve an Invasion in the 
+Location at the top of the Draw Stack 
+Events in India 
+
+--- Page 9 ---
+10/16 
+ 
+ If you have not resolved as many events as the number 
+rolled on the storm die, repeat from step 1. 
+India Actions Explained 
+• Invasion: 
+1. Calculate the Attacker's (Elephant's Tail Region) 
+Strength, adding the following: 
+ Region Strength 
+ Add modifier on the tile's event 
+ If Capital Region (Star Flag): Add the Strength of all 
+Regions with a small flag of the same color 
+ If Company Defender: add 1 for every Unrest Cube in 
+this Region 
+2. Calculate the Defender's (Elephant's Head Region) 
+Strength 
+ Non-Company Defender: Tower Level 
+ Company Defender: 
+o The Commander sets Strength in the same way as 
+during a Deploy action (exhausting pieces in the 
+Army Boxes). 
+o If the Commander is vacant, then 1) Military Affairs, 
+2) Chairman makes the decisions; players do not gain 
+or lose trophies in this case. 
+3. If Attacker Strength > Defender Strength: Resolve 
+Successful Invasion 
+ If Non-Company Defender: 
+1. If the Attacker does not have a flag and there are still 
+flags remaining, it gains a star flag 
+2. Remove any flag on a Defending Region 
+3. If the Defending region had a Star Flag, remove it 
+and all flags of that color. 
+4. If there are still flags remaining, place a flag of the 
+Attacker's Color on defending region's dome 
+ If Company Defender: Perform Region Loss 
+4. If Attacker Strength <= Defender Strength: Resolve 
+Failed Invasion 
+ Remove one Tower Level from the Attacker 
+(regardless of Company/Non-Company Defender) 
+ If Company Defender: 
+o Remove all Unrest Cubes in the Attacked Region 
+o The Commander associated with the region gains a 
+trophy token 
+5. If this was an Attack on the Company, resolve a 
+Rebellion in each other Region with an Unrest Cube, in 
+order of Presidencies (starting with Bombay) 
+ Same procedure as a regular Rebellion, but the 
+Attacker's Strength is equal to each Unrest Cube, 
+nothing else 
+6.  Perform an Elephant’s March. 
+• Rebellion: 
+1. Calculate the Attacker's (Dominated Region) Strength 
+ Region Strength (Tower Level) 
+ Add modifier on the tile's event 
+ If attacking the Company, add 1 for every Unrest Cube 
+in the Region 
+2. Calculate the Defender's (Sovereign Region) Strength 
+ If Non-Company Defender: 
+o Only Region Strength (Tower Level) 
+o Do not include other Dominated Regions in the 
+Empire as you would in an invasion. 
+ If Company Defender: 
+o The Commander sets Strength in the same way as 
+during a Deploy action (exhausting pieces in the 
+Army Boxes). 
+o If the Commander is vacant, then 1) Military Affairs, 
+2) Chairman makes the decisions; players do not gain 
+or lose trophies in this case. 
+3. If Attacker Strength > Defender Strength: Resolve 
+Successful Rebellion 
+ Non-Company Defender: 
+o Return the Attacker's flag to the supply. 
+o Close every open Order in the Attacker's Region, 
+check for Cascades/Writer’s Loss. 
+ Company Defender: Perform Region Loss 
+4. If Attacker Strength <= Defender Strength: Resolve 
+Failed Rebellion 
+ If Non-Company Defender: Remove one Tower Level 
+from the Attacker 
+ If Company Defender: 
+o Remove all Unrest Cubes in the Attacked Region 
+o The Commander associated with the region gains a 
+single trophy token 
+5. If this was an Attack on the Company, resolve a 
+Rebellion in each other Region with an Unrest Cube, in 
+order of Presidencies (starting with Bombay) 
+ Same procedure as a regular Rebellion, but the 
+Attacker's Strength is equal to each Unrest Cube, 
+nothing else 
+6. Perform an Elephant’s March. 
+• Region loss: 
+1. The Commander of the Army associated with the lost 
+Region return half (rounded up) of its Family's Trophies 
+2. Return the Commander to the supply 
+3. Roll a d6 for every Officer in the Army and remove 
+them on 6s 
+4. Remove any Local Governors (card to Vacant Offices, 
+Family Member to supply, any fatigue to the supply, 
+remove the Governor Overlay). Skip this step if there is 
+a Governor General. 
+5. Remove any Company Ships. 
+6. Remove any Unrest Cubes. 
+
+--- Page 10 ---
+11/16 
+ 
+7. Place a Dome with Tower Level 1, add a flag if this was 
+an invasion. 
+8. Return the Loot Token for the Region facedown. 
+9. Close every open Order in the Region, check for 
+Cascades/Writer’s Loss 
+10. Lower the Company Standing by 1 to the left for each 
+Region lost this turn (including this one). (I.e,. 1st loss 
+= 1, 2nd loss = 2, etc.) 
+11. If Company Failure is caused by step 10, the game is 
+over. Resolve Final Scoring. 
+• Writer's loss: When closing an Order with a Writer, 
+return the Writer back to the supply. 
+• Cascades are performed when you need to close an 
+Order in a Region, but all Orders are already closed. 
+1. Close all Orders connected to the Orders in the 
+Cascading Region.  
+ Orders that branch out into >1 connections do require 
+>1 Orders to be closed. 
+2. If a connected Order is already closed: 
+ If the Region has any Open Orders, close the 
+Northernmost Open Order in that Region instead. 
+ If the Region has no Open Orders, trigger an 
+additional Cascade. 
+- Each Region can only Cascade once during one Event 
+Tile. 
+• Elephant's March: 
+1. Check for “Imperial Ambitions” by doing the following: 
+ After a Successful Invasion, the Elephant is moved to 
+the Successful Capital's Region. 
+ Otherwise, move the Elephant to the Region on top of 
+the Draw Stack. 
+2. Determine new Elephant Position: 
+ Company-Controlled Region: Center of the Region. 
+ Dominated Region: Border of the Region facing its 
+current Sovereign. 
+ Sovereign Region: 
+1. Place the Elephant on the border matching the shape 
+printed on the tile (circle, triangle, square), facing that 
+region. 
+2. If the Elephant faces a region that is already 
+dominated by the Capital Region, use the first 
+clockwise Region. 
+3. If all Regions surrounding the Elephant's Regio are 
+dominated, place the Elephant on the border 
+matching the shape on the Elephant redirect arrow 
+and position it so that it is pointing at the Empire’s 
+capital. 
+• The Prime Minister looks at up to 3 law cards, one by 
+one, but must choose any Dilemma that presents itself 
+immediately. The remaining cards is Discarded. 
+• The Prime Minster sets the policy by rotating the dial 
+(in either direction) and stopping at the first space that 
+matches the icon printed on the bottom of the law card. 
+• The Prime Minster reads the text of the law aloud and 
+marks its starting support on the voting tracker. 
+• Starting with the Prime Minister, players take turns 
+voting. 
+- Voting is done with cards and cash: 
+ Players can buy votes for £1 each from their Family 
+Treasury 
+ Any card in their play area with votes adds votes as 
+well. (Rotate the card to show they have been used.) 
+- If votes go beyond the limits of the tracker, use coins to 
+track additional votes. 
+- Once a player votes against, they can no longer vote for, 
+and they become part of the opposition. 
+ Keep track of which opposition member cast the most 
+votes. 
+ The opposition member with the most votes becomes 
+opposition leader (and takes the token). Ties stay with 
+the previous leader. 
+ Players may cast votes on behalf of another player with 
+that player's consent, and these votes are added towards 
+opposition leadership (as the opposition leader 
+becomes president on a failed vote). 
+- A player who voted for can later decide to vote against. 
+- The Prime Minister cannot vote against the current law 
+or consent to their enterprises to be used against, but 
+their promise note can override this. 
+• After all players have had a chance to vote, the Prime 
+Minister can decide to call another round or stop and 
+resolve the vote. 
+- If no votes cast: the vote must be resolved. 
+• Resolving the vote: 
+- Less than 0 votes = Failure 
+ Discard the law, resolve "If Failed" effects 
+ Opposition leader loses that token and becomes new 
+Prime Minister 
+ The new Prime Minister moves the policy on the dial 
+to an adjacent policy. 
+- 0 or more votes = Success 
+ Place the Law in the passed laws and activate it. 
+o Governor General law: 
+• Remove all Governor overlays 
+• Place the Governor General overlay on the Director 
+of Trade.  
+Parliament Meets 
+
+--- Page 11 ---
+12/16 
+ 
+• Replace Director of Trade card with  Governor 
+General, transfer fatigue. 
+ The Prime Minister receives a Passed Law Token. 
+• Resolve the policy effect 
+- Tax: Pay £1 for each depicted target owned, return the 
+target to the supply if you cannot pay. 
+ Fitted ships stay in play but the Shipyards are returned 
+and can no longer be bought. 
+ Window Tax: £1 for each Window on a prize with a 
+family member, and each Window on an enterprise. 
+Return them if you cannot pay. 
+- Bonus: Gain £1 for each target 
+- Power: Swap the position of the Power marker matching 
+the target with the next higher Power marker. If the 
+target’s Power marker is already in the highest position, 
+swap the position of any two other Power markers. 
+• Return any cards used for voting to their regular 
+orientation 
+• If the Company fails at any point during this phase, 
+resolve the vote and move to Final Scoring. 
+• Pay for family members on prizes (the £ to the right of 
+the Prize's cost). 
+• Return family members whose prize's expenses cannot 
+be paid to the Supply and adjust the Victory Marker 
+correspondingly. 
+• Prepare the Board for the next turn or go to Final 
+Scoring 
+- Return writers to their Presidencies 
+- Return Filled Order Tokens and Presidency Dividers to 
+the Supply 
+- Return all Extra Ships to the Supply 
+- Re-activate Exhausted Officers, Regiments 
+- Exhaust any Active Local Alliances 
+- Advance the Turn Marker and Proceed with the first 
+Phase 
+GAME END 
+• End the game if the following occurs (but finish the 
+India phase if it triggers during): 
+- Company Survival: End after completing the turn prior 
+to the year printed on the turn tracker 
+- Company Failure: Company Standing on left-most space 
+• No more negotiations, promise cards or blackmail cards 
+can be played (unless a card explicitly allows it) 
+• Final scoring 
+- If there are Firms in place, resolve the following, 
+regardless of Company Success: 
+ Score or lose the number of Victory Points indicated 
+by the Firm's Value for each Firm Share Own or each 
+family piece in Debtor’s Prison (Rounded Down). 
+ Perform one Special Retirement (see London Season, 
+resolve Retirements). 
+- Allocate Victory Points based on Power using the 
+printed Game End Scoring box next to the Power 
+Tracker. Calculate Power as follows: 
+ Power Track points for each enterprise/Company 
+Share (2 Power for first, 1 Power for second, 0 Power 
+for others) + Prime Minister + Passed Law Tokens 
+points + some Blackmail cards (face-down or up) 
+points + some Spouse cards points + Trophies points 
+ Tied 1st place grants lower value to tied players 
+ Tied 2nd place grants nothing 
+- Company Survival:  
+ Score Court: +X VP as depicted on the board (or on 
+the overlay) for each share. 
+ Final Retirement = final Attrition and Retire rolls for all 
+officeholders, purchase final prizes 
+- Company Failure:  
+ Score Court: -X VP as depicted on the board (or on 
+the overlay) for each share. 
+ +1 VP for each Workshop. 
+ Consequence of Failure = Draw Consequence of 
+Failure card and resolve it 
+TERMINOLOGY REFERENCE 
+• 4+ Vacancies: Whenever 4 Offices have no family 
+member attached to them. 
+• Attacks: The Company can attack a region through a 
+Commander's Deploy action. The Company can also 
+be attacked through Events in India. 
+• Army (Box): There is an army box on the board for 
+Bombay, Madras and Bengal. It has a spot for a 
+Commander and a top and bottom half. The top and 
+bottom contain army pieces, such as Officers (family 
+members), Regiments or Local Alliances. Pieces in the 
+top half are active, the bottoms ones are exhausted. 
+• Balance: The Company Balance track at the bottom of 
+the board. 
+• Bonus: Either refers to the Bonus phase or times when 
+players receive extra income during their actions. (E.g., 
+the President receives a bonus of £1 for each filled 
+order) Bonuses are usually printed in green in the 
+rulebook/highlighted in green in this document and are 
+paid to the Family Treasury. Note that money generated 
+during the Bonus Stage through Shipyards and 
+Workshops is not an “Officeholder’s Bonus”. 
+• Capital Region: A capital region is marked by a flag with 
+a star. It has a least one dominated region that is 
+Upkeep and Refresh 
+
+--- Page 12 ---
+13/16 
+ 
+marked by a smaller flag of the same metal without a 
+star. If it does not have a dominated region, return the 
+flag with a star to the supply. A capital region also 
+counts as a sovereign region. The capital region and its 
+dominated regions together form an empire. 
+• Company-Controlled: A region in India that doesn't 
+have a tower/dome (revealing the heart-like Company 
+logo) is Company-Controlled. If the Governor General 
+is not in play, it is also indicated by the presence of a 
+Governor Overlay chit. 
+• Company Treasury: The Company Treasury is tracked 
+through its various Company Office boxes. It is not the 
+same as the Company Balance. 
+• Commander: Family members in an Army box that can 
+acquire alliances and deploy. They are not Officers and 
+they cannot be exhausted to gain dice in combat. 
+• Consequences: See Policy (Track). 
+• Deregulation: Deregulation heals the Company and 
+adds Firms (miniature Companies) to the game. You 
+can vote for deregulation in the 1758 and long 1710 
+scenarios. In the 1813 scenario deregulation is already 
+active. To vote for deregulation, the Company Standing 
+Marker and/or Company Debt marker needs to be on 
+one of the spaces marked with lines. If either of them is 
+on a space marked with a star, there must be a vote for 
+deregulation. 
+• Dilemma: A Dilema is a Law with red lines above and 
+below its title on its card. It needs to be picked 
+immediately by the Prime Minister and addressed. 
+• Dividers: 6 red rectangular chits with rounded corners 
+that depict a white ornamental line. These are used to 
+break the dotted lines between Orders to clarify when 
+the Orders were filled to determine whether they can be 
+filled again. 
+• Dominated Region: Dominated regions are indicated in 
+1 of 3 ways: 1) Dome with a flag (when dominated by a 
+Sovereign region), 2) Governor Overlay (when 
+dominated by the company) or 3) no Dome nor 
+Overlay (when dominated by the Company when there 
+is a Governor General in play).  
+• Empire: A capital region (flag with star) alongside its 
+dominated regions (small flags in the same metal as the 
+flag with a star) together form an empire. 
+• Emergency Loans: Loans taken by the Company or 
+Firms when they cannot pay their expenses. If they 
+advance the debt marker, then you do not have to pay 
+additional expenses for the additional debt. 
+• Enterprises: There are two kinds of enterprises, both of 
+which are identified by anchor, hat, or gear icons: 1) 
+small cards with shipyards, workshops and luxuries, and 
+2) large prestige cards that have the same icons in the 
+upper right corner. Both are taxed. 
+• Expectations: Shorthand for Company Expectations. 
+• Expenses: See the Expenses phase. 
+• Export Icons: Small white icons depicting a package 
+found in Bengal (2), Delhi, Madras and Hyderabad. 
+• Extra Action: Additional family actions unlocked 
+through laws; only the most recent Extra Action that was 
+passed is ever active (and their associated laws are not 
+impacted by this).  
+• Family Treasury: The money that each player has, also 
+referred to as Family Cash. 
+• Fitted: Fitted ships have left the shipyard. 
+• Foundry: A Prestige Card that awards £1 for newly 
+purchased Regiments or Workshops. 
+• Game End: The game ends at the end of the turn prior 
+to crossing the year of the scenario that you are playing 
+(as indicated on the turn tracker printed on the game 
+board). 
+• Governor General: This Office replaces the Director of 
+Trade after the “Governor General” Law has been 
+passed. It has an overlay chit to place on the board. 
+• Governor Overlay: The oval chits with a thick red 
+border that has the icon of a region printed on it. They 
+are placed on regions after successful Deploy actions by 
+a Commander. 
+• Hiring Preference: A blackmail card to force someone 
+to hire you. It does not apply in Chairman elections, but 
+it does apply during the Military Oversight law. 
+• Home Port: Orders with thick borders within Bombay, 
+Madras and Bengal, located next to their associated Sea 
+zones.  
+• Home Region: Bombay, Madras, Bengal. Losing a 
+Home Region does not impact actions or ownership of 
+associated regions. 
+• Imperial Ambitions: Read this as “If there was a 
+successful Invasion, move the Elephant to the successful 
+Capital’s Region, otherwise move the Elephant to the 
+Region on the top of the draw stack.” 
+• Foreign Invasion: See Event in India. 
+• Lines on Standing/Debt Spaces: In the 1758 and long 
+1710 scenarios, the Prime Minister is allowed to call for 
+a vote on deregulation, see p. 36. 
+• Labor Newspaper: Prestige card; the extra votes come 
+with a chosen policy, not the law. 
+• Local Alliance: Local alliances are temporary Army 
+pieces. Each piece can only be used once on the turn 
+they are purchased, and its strength cannot be split 
+among more than one purpose. 
+• Long 1710 game: Start the game with the 1710 scenario 
+and the 1710 setup cards but play all 8 turns or end on 
+Company Failure 
+
+--- Page 13 ---
+14/16 
+ 
+• Loot: Collected after a successful Deploy action by a 
+Commander. 
+• Luxury: A small pink Enterprise card with Victory 
+Points/Windows. Prestige Cards with a hat icon do not 
+count. 
+• Making a check: Rolling a certain number of dice to see 
+if an action is a success, a failure, or a catastrophic 
+failure. Certain success checks come with penalties. 
+• Manufacturing Enterprise: Enterprises with the gear 
+icon 
+• Manufacturing Policy: A Policy with the gear icon. 
+• Non-Company-Controlled: Any region in India that has 
+a Tower. 
+• No Penalty: Used to indicate that there are no negative 
+modifiers to an action (e.g., in the Director of Trade’s 
+Special Envoy action), even though similar actions do 
+have such modifiers (e.g., President’s Trade Action). 
+• Office: The positions that family members can hold in 
+the game, such as Chairman, Director of Trade, etc. 
+Each Office has a card. 
+• Officeholder: A family member that holds an Office. 
+Excludes Writers/Commanders. 
+• Officeholder’s Bonus: See Bonus. 
+• Officer: Family members in an Army box that are not 
+Commanders. They can be exhausted to gain dice in 
+combat. 
+• Opportunity Token/Marker: The glass bead that goes 
+on your family board to select a Family Action. The 
+Lady Glencora Prestige Card can remove it.  
+• Passed Law Duration: Passed Laws remain active until 
+the end of the game. 
+• Passed Law Tokens: The Prime Minister gets a Passed 
+Law Token when a law successfully passes. 
+• Penalty: Whenever the player receives a negative 
+modifier or punishment. Also see “No Penalty”. 
+• President’s Bonus: The bonus a President receives for 
+each filled order during a Trade. 
+• Prestige Cards: The large cards with a red back that go 
+into the London Display. 
+• Prizes: The estates printed on the left side of the board. 
+Note that the top prize does not offer victory points but 
+buying it does allow you access to a Prestige Card during 
+the London Season. 
+• Promise Card: Each family has a set of Promise Cards 
+that can be used to make long-term deals. 
+• Promise Cube: The Crown comes with 12 red Promise 
+Cubes that are used to simulate negotiations. 
+• Power: The Power icon looks like the Victory Points 
+icon, but it is round instead of a diamond, and it has a 
+different mechanic. Power comes from the Power 
+Track with the 4 Power Tokens, the Prime Minister 
+position, passed law tokens, prestige cards and trophies. 
+Players’ Power rankings gain them Victory Points at the 
+end of the game. 
+• Power Tokens/Track: The hat, gear and anchor on 
+enterprises and shares/company logo (heart) on the 
+stock exchange will be converted to victory points at the 
+end of the game and are used in parliament. 
+Enterprises/Company Shares at the top spot are worth 2 
+Power, second spot are worth 1 Power, others are worth 
+0 Power. 
+• Regiments: Regiments are square chits depicting 
+soldiers. Also referred to through the Drum icon and 
+are placed in an Army Box. Regiments are added by 
+Governors, and they can only be removed from play by 
+the War Against France law. 
+• Region associated with a Presidency: A company-
+controlled Region that is associated to the Presidency 
+that invaded it as indicated by the region loot token. 
+• Repair Ships: You cannot repair ships. 
+• Retirement Discount: Certain Spouse Prestige Cards 
+(such as Lord Highgate) provide a retirement discount 
+of -£1 or -£2 that can be used to purchase future prizes. 
+• Rotten Borough: A type of Prestige Card. 
+• Share: Usually shorthand for Company Share, indicated 
+by family members in Court of Directors. Firms have 
+Firm Shares as indicated by family on the Firm Charter 
+Board. Family on the stock exchange do not count as 
+Shares. 
+• Shipyard: A small blue Enterprise card with 
+Ships/votes/Bonus Phase income. Prestige Cards with 
+an anchor icon do not count. 
+• Shipping Enterprises: Enterprises with the anchor icon 
+• Shipping Policy: Policy with an anchor icon. 
+• Sovereign Region: income There are two types of 
+sovereign regions: 1) capital regions with a flag with a 
+star, and 2) regions without flags. 
+• Standing: Shorthand for Company Standing 
+• Stars on Standing/Debt Spaces: In the 1758 and long 
+1710 scenarios, the Prime Minister must call for a vote 
+on deregulation. 
+• Stock Exchange track: The track above the Court of 
+Directors on the game board that depicts values from 
+£2 - £5, see p. 14. Family members here do not yet 
+count as Shares. 
+• Social Enterprises: Enterprises with the hat icon. They 
+represent social capital, conspicuous consumption, 
+wanton flaunting of wealth, keeping up appearances, etc. 
+• Social Magazine: Prestige card; the extra votes come 
+with a chosen policy, not the law. 
+
+--- Page 14 ---
+15/16 
+ 
+• Superintendent of Trade in China: This is an additional 
+office that gets added after passing the “Envoy to China” 
+Law or after the Director of Trade opens trade with 
+China. It adds a special tile to the board. 
+• Surviving: Officers not hitting a 6 on the d6 roll after a 
+battle. 
+• Trophies: Trophy tokens are received for successful 
+Deploy actions. 
+• Turmoil: See Events in India. 
+• Unrest (cubes): Unrest Cubes accumulate in India 
+regions whenever Governors fail checks. Each cube 
+increases the strength of attacks against the Company, 
+and whenever a company region is attacked for any 
+reason, all other regions with Unrest attempt a 
+Rebellion 
+• Vacant Offices box: Whenever an Officeholder is 
+removed from office, the corresponding Officeholder 
+card is moved to this area on the board (#24). 
+• Victory Points: The player with the most victory points 
+wins the game. Be careful not to confuse these with 
+Power. Whenever victory points are gained or lost, 
+immediately adjust the victory point marker. 
+• War Against France: A Dilemma that sends Ships 
+(including Firm ships), Regiments and Officers (i.e, not 
+Commanders) to the supply. 
+• Window Tax: Every player must pay £1 for each 
+Window on a prize with a family member, and each 
+Window on an enterprise. Return them if you cannot 
+pay. 
+• Workshop: A small yellow Enterprise card with votes, 
+Company failure-only Victory Points and Bonus Phase 
+income. Prestige Cards with a gear icon do not count. 
+BEGINNER STRATEGY NOTES 
+• Narrative: This is not so much a game about winning 
+and being competitive (although it very much offers 
+those kinds of fun) as it is a game about seeing a story 
+come together.  
+• Luck: The game involves a lot of chance and position 
+reversals. To win, you need equal amounts of strategy, 
+negotiation, and luck. Make a lot of deals to position 
+yourself and do not worry about optimizing die rolls 
+much. 
+• Company Failure is a big part of the game and crashing 
+it when you are in a winning position and can do so is a 
+valid strategy. When you find yourself in a situation, the 
+bigger question is not “Should I crash the company?”, 
+but “Can I crash the company?” 
+• Prized Retirements (along with Luxuries and ranking 
+high on Power) win the game. To get Retirements and 
+Prizes, you need 1) family members in Office and 2) 
+cash. 
+- Family members that retire from Office come from 
+investing in Writers or Shares. 
+- Cash is obtained through Dividends (Shares), trade 
+(Presidents, Writers), looting regions (Commanders, 
+Officers), taxes (Governors), passive bonus (Workshops, 
+Shipyards), export (Superintendent of Trade in China) 
+and making deals. 
+• Cost of Success: The further you get ahead by acquiring 
+prizes, the more you will be taxed and have to pay in 
+upkeep.  
+ 
+ 
+ 
+
+--- Page 15 ---
+16/16 
+ 
+ 
+Please report any issues or suggestions on BoardGameGeek: https://bit.ly/3TNQU8U 
+Official FAQ: https://bit.ly/3TOhXRq 
