@@ -58,10 +58,6 @@
 
 ```mermaid
 graph LR
-    subgraph Madras ["Madras (Bounty: £5)"]
-    M1((Madras 1: £4)) --- M2((Madras 2: £5 PORT))
-    end
-    
     subgraph Mysore ["Mysore (Bounty: £5)"]
     My1((Mysore 1: £6)) --- My2((Mysore 2: £3))
     end
@@ -76,8 +72,8 @@ graph LR
     end
     
     subgraph Maratha ["Maratha (Bounty: £3)"]
-    Ma3((Maratha 3: £4))
     Ma2((Maratha 2: £2)) --- Ma1((Maratha 1: £3))
+    Ma3((Maratha 3: £4))
     end
     
     subgraph Punjab ["Punjab (Bounty: £6)"]
@@ -108,4 +104,8 @@ graph LR
     Ma3 --- D3
     Ma3 --- Be1
     P1 --- D2
+
+    subgraph Madras ["Madras (Bounty: £5)"]
+    M1((Madras 1: £4)) --- M2((Madras 2: £5 PORT))
+    end
 ```
